@@ -1,0 +1,59 @@
+{
+  "variables": [
+    {
+      "id": 1,
+      "name": "Nexim Server",
+      "values": [
+        {"id": 1, "description": "Value 1 for Nexim Server"},
+        {"id": 2, "description": "Value 2 for Nexim Server"},
+        {"id": 3, "description": "Value 3 for Nexim Server"},
+        {"id": 4, "description": "Value 4 for Nexim Server"},
+        {"id": 5, "description": "Value 5 for Nexim Server"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nexim Line",
+      "values": [
+        {"id": 1, "description": "Value 1 for Nexim Line"},
+        {"id": 2, "description": "Value 2 for Nexim Line"},
+        {"id": 3, "description": "Value 3 for Nexim Line"},
+        {"id": 4, "description": "Value 4 for Nexim Line"},
+        {"id": 5, "description": "Value 5 for Nexim Line"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Equipament",
+      "values": [
+        {"id": 1, "description": "Value 1 for Equipament"},
+        {"id": 2, "description": "Value 2 for Equipament"},
+        {"id": 3, "description": "Value 3 for Equipament"},
+        {"id": 4, "description": "Value 4 for Equipament"},
+        {"id": 5, "description": "Value 5 for Equipament"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "CPH",
+      "values": [
+        {"id": 1, "description": "Value 1 for CPH"},
+        {"id": 2, "description": "Value 2 for CPH"},
+        {"id": 3, "description": "Value 3 for CPH"},
+        {"id": 4, "description": "Value 4 for CPH"},
+        {"id": 5, "description": "Value 5 for CPH"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Slots",
+      "values": [
+        {"id": 1, "description": "Value 1 for Slots"},
+        {"id": 2, "description": "Value 2 for Slots"},
+        {"id": 3, "description": "Value 3 for Slots"},
+        {"id": 4, "description": "Value 4 for Slots"},
+        {"id": 5, "description": "Value 5 for Slots"}
+      ]
+    }
+  ]
+}
